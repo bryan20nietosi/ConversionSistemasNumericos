@@ -5,4 +5,6 @@ Contiene 3 archivos editables en lenguaje python que se encuentran en la carpeta
       1.- CodigoPrueba.py contiene la estructura sin aplicar formato de aplicacion
       2.- Convierte.py contiene la clase con sus funciones para respectivo funcionamiento de entrada de datos 
       3.- Aplicacion.py contiene la libreria tkinter asi como la clase Covertidor del archivo Convierte.py
+      4.- Actualizacion fecha: 21/05/2020
+      5.- Formato de version: V2/SistemaNumerico
 
